@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\caRetangulo\caRetangulo\bin\Debug\caRetangulo.exe.config
+C:\Users\Aluno\Desktop\caRetangulo\caRetangulo\bin\Debug\caRetangulo.exe
+C:\Users\Aluno\Desktop\caRetangulo\caRetangulo\bin\Debug\caRetangulo.pdb
+C:\Users\Aluno\Desktop\caRetangulo\caRetangulo\obj\Debug\caRetangulo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\caRetangulo\caRetangulo\obj\Debug\caRetangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\caRetangulo\caRetangulo\obj\Debug\caRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\caRetangulo\caRetangulo\obj\Debug\caRetangulo.exe
+C:\Users\Aluno\Desktop\caRetangulo\caRetangulo\obj\Debug\caRetangulo.pdb
